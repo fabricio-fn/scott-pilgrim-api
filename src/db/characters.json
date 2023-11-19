@@ -13,6 +13,6 @@
     "age": 30,
     "gender": "female",
     "occupation": "Space Explorer",
-    "imagePath": "/image/1.webp"
+    "imagePath": "https://scott-pilgrim-api.vercel.app/image/1.webp"
   }
 ]
