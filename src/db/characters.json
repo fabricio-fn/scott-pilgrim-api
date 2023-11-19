@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 30,
+    "gender": "male",
+    "occupation": "Space Explorer",
+    "imagePath": "https://ik.imagekit.io/scottpilgrimapi/1.webp?updatedAt=1700414022307"
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "age": 30,
+    "gender": "female",
+    "occupation": "Space Explorer",
+    "imagePath": "/image/1.webp"
+  }
+]
