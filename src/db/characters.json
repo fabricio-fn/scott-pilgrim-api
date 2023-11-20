@@ -1,18 +1,223 @@
 [
   {
     "id": 1,
-    "name": "John Doe",
-    "age": 30,
-    "gender": "male",
-    "occupation": "Space Explorer",
-    "imagePath": "https://ik.imagekit.io/scottpilgrimapi/1.webp?updatedAt=1700414022307"
+    "name": "Scott Pilgrim",
+    "gender": "Male",
+    "age": "23",
+    "status": "Alive",
+    "occupation": ["Musician"],
+    "image": "https://ik.imagekit.io/scottpilgrimapi/image/1.jpg?updatedAt=1700504346214"
   },
   {
     "id": 2,
-    "name": "Jane Doe",
-    "age": 30,
-    "gender": "female",
-    "occupation": "Space Explorer",
-    "imagePath": "https://scott-pilgrim-api.vercel.app/image/1.webp"
+    "name": "Ramona Flowers",
+    "gender": "Female",
+    "age": "24",
+    "status": "Alive",
+    "occupation": ["Netflix delivery (DVDs)"],
+    "image": "https://ik.imagekit.io/scottpilgrimapi/image/2.jpg?updatedAt=1700504342884"
+  },
+  {
+    "id": 3,
+    "name": "Wallace Wells",
+    "gender": "Male",
+    "age": "25",
+    "status": "Alive",
+    "occupation": ["Unknown"],
+    "image": "https://ik.imagekit.io/scottpilgrimapi/image/3.jpg?updatedAt=1700504342150"
+  },
+  {
+    "id": 4,
+    "name": "Julie Powers",
+    "gender": "Female",
+    "age": "23",
+    "status": "Alive",
+    "occupation": ["Cashier at Second Cup"],
+    "image": "https://ik.imagekit.io/scottpilgrimapi/image/4.jpg?updatedAt=1700504340707"
+  },
+  {
+    "id": 5,
+    "name": "Stephen Stills",
+    "gender": "Male",
+    "age": "22",
+    "status": "Alive",
+    "occupation": ["Cook at The Happy Avocado", "Guitar and Vocals"],
+    "image": "https://ik.imagekit.io/scottpilgrimapi/image/5.jpg?updatedAt=1700504335903"
+  },
+  {
+    "id": 6,
+    "name": "Kim Pine",
+    "gender": "Female",
+    "age": "23",
+    "status": "Alive",
+    "occupation": ["No-Account Video attendant", "Drummer"],
+    "image": "https://ik.imagekit.io/scottpilgrimapi/image/6.jpg?updatedAt=1700504335932"
+  },
+  {
+    "id": 7,
+    "name": "Knives Chau",
+    "gender": "Female",
+    "age": "17",
+    "status": "Alive",
+    "occupation": ["High school student"],
+    "image": "https://ik.imagekit.io/scottpilgrimapi/image/7.jpg?updatedAt=1700504346483"
+  },
+  {
+    "id": 8,
+    "name": "Young Neil",
+    "gender": "Male",
+    "age": "20",
+    "status": "Alive",
+    "occupation": ["Unknown"],
+    "image": "https://ik.imagekit.io/scottpilgrimapi/image/8.jpg?updatedAt=1700504342390"
+  },
+  {
+    "id": 9,
+    "name": "Stacey Pilgrim",
+    "gender": "Female",
+    "age": "19",
+    "status": "Alive",
+    "occupation": ["Cashier at Second Cup"],
+    "image": "https://ik.imagekit.io/scottpilgrimapi/image/9.jpg?updatedAt=1700504342259"
+  },
+  {
+    "id": 10,
+    "name": "Matthew Patel",
+    "gender": "Male",
+    "age": "Unknow",
+    "status": "Alive",
+    "occupation": ["Broadway actor", "CEO"],
+    "image": "https://ik.imagekit.io/scottpilgrimapi/image/10.jpg?updatedAt=1700504342534"
+  },
+  {
+    "id": 11,
+    "name": "Gideon Graves",
+    "gender": "Male",
+    "age": "Unknow",
+    "status": "Alive",
+    "occupation": [
+      "Leader and founder of the League of Ramona's Evil Exes",
+      "Head of The GGG Heavy Industries",
+      "Owner of the Chaos Theatre",
+      "Inventor"
+    ],
+    "image": "https://ik.imagekit.io/scottpilgrimapi/image/11.jpg?updatedAt=1700504342164"
+  },
+  {
+    "id": 12,
+    "name": "Envy Adams",
+    "gender": "Female",
+    "age": "25",
+    "status": "Alive",
+    "occupation": ["Singer"],
+    "image": "https://ik.imagekit.io/scottpilgrimapi/image/12.jpg?updatedAt=1700504336023"
+  },
+  {
+    "id": 13,
+    "name": "Lucas Lee",
+    "gender": "Male",
+    "age": "Unknown",
+    "status": "Alive",
+    "occupation": ["Pretty good actor", "skateboarder"],
+    "image": "https://ik.imagekit.io/scottpilgrimapi/image/13.jpg?updatedAt=1700504344537"
+  },
+  {
+    "id": 14,
+    "name": "Todd Ingram",
+    "gender": "Male",
+    "age": "24",
+    "status": "Alive",
+    "occupation": ["Rock Star"],
+    "image": "https://ik.imagekit.io/scottpilgrimapi/image/14.jpg?updatedAt=1700504337843"
+  },
+  {
+    "id": 15,
+    "name": "Roxie Richter",
+    "gender": "Female",
+    "age": "Unknown",
+    "status": "Alive",
+    "occupation": ["Artist", "Half-ninja"],
+    "image": "https://ik.imagekit.io/scottpilgrimapi/image/15.jpg?updatedAt=1700504335913"
+  },
+  {
+    "id": 16,
+    "name": "Kyle Katayanagi",
+    "gender": "Male",
+    "age": "Unknown",
+    "status": "Alive",
+    "occupation": ["Award-winning Roboticist"],
+    "image": "https://ik.imagekit.io/scottpilgrimapi/image/16.jpg?updatedAt=1700504342110"
+  },
+  {
+    "id": 17,
+    "name": "Ken Katayanagi",
+    "gender": "Male",
+    "age": "Unknown",
+    "status": "Alive",
+    "occupation": ["Award-winning Roboticist"],
+    "image": "https://ik.imagekit.io/scottpilgrimapi/image/17.jpg?updatedAt=1700504335793"
+  },
+  {
+    "id": 18,
+    "name": "Hollie Hawkes",
+    "gender": "Female",
+    "age": "Unknown",
+    "status": "Alive",
+    "occupation": ["Video Store Cashier"],
+    "image": "https://ik.imagekit.io/scottpilgrimapi/image/18.jpg?updatedAt=1700504335780"
+  },
+  {
+    "id": 19,
+    "name": "Old scott Pilgrim",
+    "gender": "Male",
+    "age": "37",
+    "status": "Alive",
+    "occupation": ["Unknown"],
+    "image": "https://ik.imagekit.io/scottpilgrimapi/image/19.jpg?updatedAt=1700504335795"
+  },
+  {
+    "id": 20,
+    "name": "Old Wallace Wells",
+    "gender": "Male",
+    "age": "39",
+    "status": "Alive",
+    "occupation": ["Unknown"],
+    "image": "https://ik.imagekit.io/scottpilgrimapi/image/20.jpg?updatedAt=1700504335616"
+  },
+  {
+    "id": 21,
+    "name": "Old Ramona Flowers",
+    "gender": "Female",
+    "age": "Don't ask",
+    "status": "Alive",
+    "occupation": ["Netflix delivery (DVDs)"],
+    "image": "https://ik.imagekit.io/scottpilgrimapi/image/21.jpg?updatedAt=1700504346517"
+  },
+  {
+    "id": 22,
+    "name": "Even Older Scott",
+    "gender": "Male",
+    "age": "47",
+    "status": "Alive",
+    "occupation": ["Unknown"],
+    "image": "https://ik.imagekit.io/scottpilgrimapi/image/22.jpg?updatedAt=1700504335882"
+  },
+  {
+    "id": 23,
+    "name": "Even Older Ramona",
+    "gender": "Female",
+    "age": "Don't ask",
+    "status": "Alive",
+    "occupation": ["Unknown"],
+    "image": "https://ik.imagekit.io/scottpilgrimapi/image/23.jpg?updatedAt=1700504335345"
+  },
+  {
+    "id": 24,
+    "name": "Super Ramona",
+    "gender": "Female",
+    "age": "Unknown",
+    "status": "Alive",
+    "occupation": ["Unknown"],
+    "image": "https://ik.imagekit.io/scottpilgrimapi/image/24.jpg?updatedAt=1700504342450"
   }
 ]
